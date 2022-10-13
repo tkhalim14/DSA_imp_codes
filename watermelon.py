@@ -1,0 +1,5 @@
+i = int(input())
+a1 = input()
+a2 = input()
+a1.split(' ')
+a2.split(' ')
